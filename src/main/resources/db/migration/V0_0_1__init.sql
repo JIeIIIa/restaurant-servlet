@@ -1,0 +1,1 @@
+-- empty script to initialize database
